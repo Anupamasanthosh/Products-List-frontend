@@ -1,4 +1,4 @@
-export const baseUrl='http://localhost:5000/api'
+export const baseUrl='https://product-lists.onrender.com'
 
 export const addProduct='/addProduct'
 export const editProduct='/editProduct'
